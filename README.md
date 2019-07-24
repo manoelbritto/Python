@@ -77,5 +77,6 @@ V 1.0
 
 ## Features
 
-Read two different CSV files
-Libraries: OS and CSV
+* Read two different CSV files
+* Libraries: OS and CSV
+* Data Structure: Dictionary
