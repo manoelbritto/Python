@@ -2,7 +2,7 @@
 
 # Project: Bank and Poll
 
-This project extract data from two different CSV files. One is from a Bank, and another is from an election data. With Python code, I can work with these files to create my analysis.
+This project extracted data from two different CSV files. One is from a Bank, and another is from an election data. With Python code, I can work with these files to create my analysis.
 
 ## Getting Started
 
